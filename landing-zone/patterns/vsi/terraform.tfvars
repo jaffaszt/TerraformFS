@@ -1,6 +1,6 @@
 prefix                   = "jaffasx-01"
 region                   = "us-south"
-ssh_public_key           = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCvQXV3yg/4Lu/o9mEMfXiwP2Nbkfn38VFBIK1jXvahGfvVKWEggD/5YqK+S4VUWvWN91+7s6CL0iYvtgY9whTgBkYiEG0enpsTJZD63g9ROkb8JuedYzdUe4M/OAJGr7YRxcPpufG77TDGzOAF1G5lHs3OUNZXDgRtzLSTqriRdxwmjlvTHYIVr6nYjpTqCrG5ErWCsImNooMjmbk7KLnVSTfxcCuSThVcq9HdwumdFZQc1hM4cnrj00JhXbrBbMSnr9fdcSMyffSyGYAbFbZn08rMcLLAXKGN0+FA2gLmmi8sUFOO/4aBE91glsb2a0k9IuOEoq5CcbDP+5D2356vSxJUMMIXG8w/3nweWNPrFqq9v59GDEiqzjZ0ditqAhzAloWrZ+XbtSdSvtLWnWAATx0s0YyvZ061voPjtG/YJ7MkHA0OaJHlSuFW5ABxconjtv4tedX0vG9hYqhgoX7DOWNRNBpvQKi3TKAnbvVhb36aXdfaHyx4sRaw13y/m+0= jaffas@Jaffas-MBPterr"
+ssh_public_key           = "iqzjZ0ditqAhzAloWrZ+XbtSdSvtLWnWAATx0s0YyvZ061voPjtG/YJ7MkHA0OaJHlSuFW5ABxconjtv4tedX0vG9hYqhgoX7DOWNRNBpvQKi3TKAnbvVhb36aXdfaHyx4sRaw13y/m+0= jaffas@Jaffas-MBPterr"
 tags                     = []
 vpcs                     = ["management", "workload"]
 enable_transit_gateway   = true
